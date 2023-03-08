@@ -1,0 +1,20 @@
+{
+    "name": "jayboss/contact",
+    "description": "This is a simple test contact form with laravel",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Jayboss\\Contact\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mayejacob",
+            "email": "mayejacob3@gmail.com",
+            "website": "https://mayeconcept.com.ng"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

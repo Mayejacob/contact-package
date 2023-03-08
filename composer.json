@@ -18,8 +18,10 @@
     "minimum-stability": "dev",
     "require": {},
     "extra": {
-        "laravel": [
-            "Jayboss\\Contact\\ContactServiceProvider"
-        ]
+        "laravel": {
+            "providers": [
+                "Jayboss\\Contact\\ContactServiceProvider"
+            ]
+        }
     }
 }
